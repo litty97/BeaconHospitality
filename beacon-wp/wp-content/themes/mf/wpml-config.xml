@@ -1,0 +1,11 @@
+<wpml-config>
+  <admin-texts>
+    <key name="mf_options">
+      <key name="text-col-telephone"/>
+      <key name="text-col-mail"/>
+      <key name="text-copyright"/>
+      <key name="not-found-text"/>
+      <key name="not-found-content"/>
+    </key>
+  </admin-texts>
+</wpml-config>
